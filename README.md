@@ -1,6 +1,7 @@
 # Todo-App
 Making a Todo App using React.js Library
 A simple and intuitive Todo App built using the React.js library. This application helps users manage their daily tasks efficiently by allowing them to add, edit, and delete tasks.
+
 # Table of Contents
 Features
 * Demo
